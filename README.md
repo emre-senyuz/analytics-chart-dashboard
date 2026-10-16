@@ -50,6 +50,7 @@ Currency is stored and summed as cents, then formatted as USD rounded to whole d
 
 ## Screenshot
 
-**Screenshot placeholder:** add a screenshot of the default 30-day / All channels view at `docs/dashboard.png` after capturing the running app. No screenshot is included or claimed.
+<img width="1900" height="908" alt="image" src="https://github.com/user-attachments/assets/eee36970-28b3-4cb8-a80e-473495895c9f" />
+
 
 No tests, database, authentication, or additional dashboards are included.
